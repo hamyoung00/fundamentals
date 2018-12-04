@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title List tags</title>
+</head>
+<body>
+<h3> lasagna recipe</h3>
+<ol>
+<li><strike> boil noofles</strike></li>
+<li> make sauce</li>
+<li lay out noodles</li>
+<li> add cheese</li>
+<li>Pour sauce</li>
+<li>bake in oven</li>
+</ol>
+<h3> weekend to do list</h3>
+<ul>
+<li> clean garage</li>
+<li> fix car</li>
+<li> create million dollar</li>
+<li> make lasagna</li>
+<li> code and award winning app</li>
+</ul>
+
+</body>
+</html>

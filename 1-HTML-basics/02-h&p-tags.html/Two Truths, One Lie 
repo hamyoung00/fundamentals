@@ -1,0 +1,46 @@
+<! DOCTYPE html>
+<html>
+<head>
+    <title>Two Truths, One Lie</title>
+    </head>
+    <body>
+    
+    <h1> H1 Tag</h1>
+    <h2>H2 Tag</h2>
+    <h3>H3 Tag</h3>
+    <h4>H4 tag</h4>
+    <h5>H5 Tag</h5>
+    <h6>H6 Tag</h6>
+
+    <p> P Tag</p>
+
+    <hr />
+    <br />
+    <br />
+    <br />
+
+    <h1> About me</h1>
+    <p> Hello, Ima happy to be here.</p>
+    <hr />
+    <h1> more about me</h1>
+    <p> heres some more info about me </p>
+        <h1>Two Truths, One Lie</h1>
+        <p> Overview: guess witch one is the lie</P>
+
+        <hr />
+       
+        <h2>Its cold outside</h2>
+        <p> winter is my favotite time of year</P>
+       
+        
+        <h3>Snowboarding</h3>
+        <p> I love winter Sports </p>
+
+        <h4>Christmas</h4>
+        <p>Christmas is my Favortite hoiladay</P>
+        
+
+        <p> here is a p tag. This will be for things like paragraphs.</p>
+
+    </body>
+    </html>
