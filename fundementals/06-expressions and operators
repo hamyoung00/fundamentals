@@ -1,0 +1,61 @@
+// assignment operator
+let x=5;
+
+// addition assignment 
+x+=1;
+//xx=x+1;
+
+//subtraction assignment
+x -=1;
+console.log(x)
+
+//multiplication assigment 
+x *=1;//x=x*1
+
+//division assignment
+x%=1; //x=x%1
+
+//remainder (or modules)assignment
+x%=1; //x=x%1;
+
+//exponetial assigment
+x**=1; //x-x**1
+
+
+
+
+//******************************************************************
+//comparison 0perators 
+
+//equal operator
+console.log('3'==3);
+// strict equal operator
+console.log('3'===3);
+
+//not equal
+console.log('3'!=3);
+
+
+//strictly not equal
+console.log('3'!==3);
+
+// greater than
+console.log(3>2)
+
+
+//less than
+console.log(2<3)
+
+//less than or equal to
+console.log(2<=3)
+
+//greater than or eqaul to
+console.log(3>=2)
+
+//or 
+console.log(2||3)
+
+//and operator
+2&&3
+
+//******************************************************************
